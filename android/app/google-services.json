@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644622220986",
+    "project_id": "medcare-a8714",
+    "storage_bucket": "medcare-a8714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644622220986:android:b2d85b0db1383897120c83",
+        "android_client_info": {
+          "package_name": "com.example.medhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644622220986-n0f4fjccupm6ffmanl2auot8bsvgvlrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medhub",
+            "certificate_hash": "04b0ce368b177421029abc0ae96fe1a2f4e89ff0"
+          }
+        },
+        {
+          "client_id": "644622220986-bnup65op26jdrejvg551fonpt0h998nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfrRavYFIgEyuSiHxeIn8LfNBlP_qROk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644622220986-bnup65op26jdrejvg551fonpt0h998nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
